@@ -1,0 +1,8 @@
+{
+  "name": "mygym-mern",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "server": "cd server && npm install && npm start"
+  }
+}
