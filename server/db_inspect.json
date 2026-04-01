@@ -1,0 +1,100 @@
+{
+  "duplicateExercises": 12,
+  "duplicateExerciseExamples": [
+    {
+      "_id": "Jumping Jacks",
+      "count": 2,
+      "docs": [
+        {
+          "_id": "69c68b5f664fd513d879a0bd",
+          "name": "Jumping Jacks",
+          "bodyPart": "Cardio",
+          "level": "Beginner",
+          "goal": "Weight Loss",
+          "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jumping_Jacks/0.jpg",
+          "__v": 0
+        },
+        {
+          "_id": "69c68b5f664fd513d879a0c3",
+          "name": "Jumping Jacks",
+          "bodyPart": "Cardio",
+          "level": "Beginner",
+          "goal": "Cutting",
+          "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jumping_Jacks/0.jpg",
+          "__v": 0
+        }
+      ]
+    },
+    {
+      "_id": "Burpees",
+      "count": 2,
+      "docs": [
+        {
+          "_id": "69c68b5f664fd513d879a0c0",
+          "name": "Burpees",
+          "bodyPart": "Full Body",
+          "level": "Intermediate",
+          "goal": "Weight Loss",
+          "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Burpee/0.jpg",
+          "__v": 0
+        },
+        {
+          "_id": "69c68b5f664fd513d879a0c5",
+          "name": "Burpees",
+          "bodyPart": "Full Body",
+          "level": "Intermediate",
+          "goal": "Cutting",
+          "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Burpee/0.jpg",
+          "__v": 0
+        }
+      ]
+    }
+  ],
+  "sampleExercises": [
+    {
+      "_id": "69c68b5f664fd513d879a0bd",
+      "name": "Jumping Jacks",
+      "bodyPart": "Cardio",
+      "level": "Beginner",
+      "goal": "Weight Loss",
+      "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jumping_Jacks/0.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "69c68b5f664fd513d879a0be",
+      "name": "Mountain Climbers",
+      "bodyPart": "Cardio",
+      "level": "Beginner",
+      "goal": "Weight Loss",
+      "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "69c68b5f664fd513d879a0bf",
+      "name": "High Knees",
+      "bodyPart": "Cardio",
+      "level": "Beginner",
+      "goal": "Weight Loss",
+      "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/High_Knee_Jog/0.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "69c68b5f664fd513d879a0c0",
+      "name": "Burpees",
+      "bodyPart": "Full Body",
+      "level": "Intermediate",
+      "goal": "Weight Loss",
+      "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Burpee/0.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "69c68b5f664fd513d879a0c1",
+      "name": "Sprints",
+      "bodyPart": "Cardio",
+      "level": "Advanced",
+      "goal": "Weight Loss",
+      "gifUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Mon: Jumping Jacks",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://i.pinimg.com/originals/db/7f/05/db7f05c4b8e23faba69ca4837dc87a71.gif",
+    "_id": "69a42bf9b75cc7513dea2bfc"
+  },
+  {
+    "name": "Mon: Burpees",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/T0b7gUoD95oAAAAC/burpee-exercise.gif",
+    "_id": "69a42bf9b75cc7513dea2bfd"
+  },
+  {
+    "name": "Tue: Push-ups",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media3.giphy.com/media/xUPGcJzPMOuM8YjWyk/giphy.gif",
+    "_id": "69a42bf9b75cc7513dea2bfe"
+  },
+  {
+    "name": "Tue: Shadow Boxing",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.giphy.com/media/3o7aD0QXq6A4B91bEY/giphy.gif",
+    "_id": "69a42bf9b75cc7513dea2bff"
+  },
+  {
+    "name": "Wed: Squats",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/IUPdO7_5VzAAAAAC/squat-workout.gif",
+    "_id": "69a42bf9b75cc7513dea2c00"
+  },
+  {
+    "name": "Wed: Plank",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/_q1Z3gR7O3IAAAAC/plank-exercise.gif",
+    "_id": "69a42bf9b75cc7513dea2c01"
+  },
+  {
+    "name": "Thu: Yoga Flow",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.giphy.com/media/l41YiDcwA3xI7S9zO/giphy.gif",
+    "_id": "69a42bf9b75cc7513dea2c02"
+  },
+  {
+    "name": "Thu: Stretching",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/T0b7gUoD95oAAAAC/burpee-exercise.gif",
+    "_id": "69a42bf9b75cc7513dea2c03"
+  },
+  {
+    "name": "Fri: Mountain Climbers",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/VBE4W-s6xVAAAAAC/mountain-climber.gif",
+    "_id": "69a42bf9b75cc7513dea2c04"
+  },
+  {
+    "name": "Fri: High Knees",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/T0b7gUoD95oAAAAC/burpee-exercise.gif",
+    "_id": "69a42bf9b75cc7513dea2c05"
+  },
+  {
+    "name": "Sat: Sprints",
+    "sets": 3,
+    "reps": 12,
+    "rest": "60s",
+    "gifUrl": "https://media.tenor.com/T0b7gUoD95oAAAAC/burpee-exercise.gif",
+    "_id": "69a42bf9b75cc7513dea2c06"
+  }
+]
