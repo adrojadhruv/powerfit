@@ -15,6 +15,12 @@ exports.signup = async (req, res) => {
         await user.save();
 
         const payload = { user: { id: user.id, role: user.role } };
+        
+        if (!process.env.JWT_SECRET) {
+            console.error('JWT_SECRET is not defined in environment variables');
+            return res.status(500).json({ msg: 'Server configuration error' });
+        }
+
         jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: '7d' }, (err, token) => {
             if (err) throw err;
             res.json({ token, user: { id: user.id, username: user.username, role: user.role, profilePic: user.profilePic, createdAt: user.createdAt } });
@@ -43,6 +49,12 @@ exports.login = async (req, res) => {
         if (!isMatch) return res.status(400).json({ msg: 'Invalid Credentials' });
 
         const payload = { user: { id: user.id, username: user.username, role: user.role } };
+        
+        if (!process.env.JWT_SECRET) {
+            console.error('JWT_SECRET is not defined in environment variables');
+            return res.status(500).json({ msg: 'Server configuration error' });
+        }
+
         jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: '7d' }, (err, token) => {
             if (err) throw err;
             res.json({ token, user: { id: user.id, username: user.username, role: user.role, profilePic: user.profilePic, createdAt: user.createdAt } });

@@ -19,6 +19,9 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
+const connectDB = require('./middleware/db');
+app.use('/api', connectDB); // Ensure DB connection for all API routes
+
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/workouts', require('./routes/workouts'));
 app.use('/api/diets', require('./routes/diets'));
